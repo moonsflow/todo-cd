@@ -6,6 +6,6 @@
 
 <style scoped>
 h1 {
-	color: lightblue;
+	color: #15a14a;
 }
 </style>
